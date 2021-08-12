@@ -1,5 +1,5 @@
 # Movies Recommendation System
-Recommend movies based on few inputs provided by user.
+Recommend movies based on inputs provided by user.
 
 ## Introduction
 
