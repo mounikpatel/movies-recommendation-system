@@ -73,6 +73,10 @@ Recommends Top-N Similar Movies (by Pearson Correlation) to the user when the us
 
 ![pearson_results](https://user-images.githubusercontent.com/36979317/129491338-2cda9f0c-0f23-43c1-8939-dc512d65e410.JPG)
 
+## Author
+
+[Mounik Patel](https://github.com/mounikpatel)
+
 ## Acknowledgments
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue&color=E51904&vCenter=true&lines=Inspired+by+NETFLIX)](https://git.io/typing-svg)
