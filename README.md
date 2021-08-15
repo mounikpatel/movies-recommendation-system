@@ -7,6 +7,10 @@ Recommend movies based on inputs provided by user, such as :
 3. To_year
 4. Genre (for content-based)/Movie title with release year (for collaborative filtering)
 
+## Background
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue&color=E51904&vCenter=true&lines=Inspired+by+NETFLIX)](https://git.io/typing-svg)
+
 ## Introduction
 
 With the rapid explosion of video streaming platforms on the Internet, the catalog of movies is rising exponentially, leaving viewers overwhelmed with a huge database of movies to choose from. Movie Recommendation Systems come into play, which consider users' preferences and recommend movies to them. This saves users a lot of time and effort that would otherwise be wasted while searching for a movie manually. This motivated me to start research on the topic ‘Movies Recommendation’.
@@ -59,26 +63,24 @@ Recommends Top-N Similar Movies (by Pearson Correlation) to the user when the us
 
 1. Example screenshot of recommendations result provided by Top-N Popular Movies Recommender System
 
-![popular_results](https://user-images.githubusercontent.com/36979317/129491261-6df1d117-ab61-43ff-97d9-fdac43c2807e.JPG)
+<img src="https://user-images.githubusercontent.com/36979317/129491261-6df1d117-ab61-43ff-97d9-fdac43c2807e.JPG" width="500"/>
 
 2. Example screenshot of recommendations result provided by Top-N Rated Movies Recommender System
 
-![rated_results](https://user-images.githubusercontent.com/36979317/129491286-e646afad-79d0-4c64-8282-1b2b133e75fd.JPG)
+<img src="https://user-images.githubusercontent.com/36979317/129491286-e646afad-79d0-4c64-8282-1b2b133e75fd.JPG" width="500"/>
 
 3. Example screenshot of recommendations result provided by Top-N Similar Movies Recommender System (by Cosine Similarity)
 
-![cosine_results](https://user-images.githubusercontent.com/36979317/129491309-d8b0a7dd-4e38-42fa-a96a-61e7a5e6f01f.JPG)
+<img src="https://user-images.githubusercontent.com/36979317/129491309-d8b0a7dd-4e38-42fa-a96a-61e7a5e6f01f.JPG" width="500"/>
 
 4. Example screenshot of recommendations result provided by Top-N Similar Movies Recommender System (by Pearson Correlation)
 
-![pearson_results](https://user-images.githubusercontent.com/36979317/129491338-2cda9f0c-0f23-43c1-8939-dc512d65e410.JPG)
+<img src="https://user-images.githubusercontent.com/36979317/129491338-2cda9f0c-0f23-43c1-8939-dc512d65e410.JPG" width="500"/>
 
 ## Author
 
 [Mounik Patel](https://github.com/mounikpatel)
 
-## Acknowledgments
+## Acknowledgment
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue&color=E51904&vCenter=true&lines=Inspired+by+NETFLIX)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=389AD5&vCenter=true&lines=Thanks+to+Dr.+T+!!!)](https://git.io/typing-svg)
+Thanks to [Dr. T](https://github.com/trevortomesh)
