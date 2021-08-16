@@ -1,6 +1,6 @@
 # Movies Recommendation System [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-Recommend movies based on inputs provided by user, such as :
+Recommend movies based on inputs provided by the user, such as:
 
 1. Number of movies for recommendations
 2. From_year
@@ -38,11 +38,11 @@ Recommends Top-N Rated Movies to the user when the user inputs the number of mov
 
 ### 3. [Top-N Similar Movies Recommender System (by Cosine Similarity)](https://github.com/mounikpatel/movies-recommendation-system/blob/main/Top_N_Similar_(User_Rated)_Movies_Recommender_System_(by_Cosine_Similarity).ipynb)
 
-Recommends Top-N Similar Movies (by Cosine Similarity) to the user when the user inputs the number of movies for recommendations, from_year, to_year and movie title with release year. The Movies Recommender System will take year_range into account and filter the movie list. A user-ratings matrix will be created for each user to rate different movies. User-ratings of input movie titles will be selected and similarity will be calculated with user-ratings of other movies using cosine similarity. These will result in a list of movies which have similar user-ratings as that of the input movie. Further, this list of movies will be sorted by cosine similarity score in descending order and only the top 0.01% of users-rated movies will be selected. Finally, top-N movies will be provided as recommendations.
+Recommends Top-N Similar Movies (by Cosine Similarity) to the user when the user inputs the number of movies for recommendations, from_year, to_year and movie title with release year. The Movies Recommender System will take year_range into account and filter the movie list. A user-ratings matrix will be created for each user to rate different movies. User-ratings of input movie titles will be selected and similarity will be calculated with user-ratings of other movies using cosine similarity. This will result in a list of movies which have similar user-ratings as that of the input movie. Further, this list of movies will be sorted by cosine similarity score in descending order and only the top 0.01% of users-rated movies will be selected. Finally, top-N movies will be provided as recommendations.
 
 ### 4. [Top-N Similar Movies Recommender System (by Pearson Correlation)](https://github.com/mounikpatel/movies-recommendation-system/blob/main/Top_N_Similar_(User_Rated)_Movies_Recommender_System_(by_Pearson_Correlation).ipynb)
 
-Recommends Top-N Similar Movies (by Pearson Correlation) to the user when the user inputs the number of movies for recommendations, from_year, to_year and movie title with release year. The Movies Recommender System will take year_range into account and filter the movie list. A user-ratings matrix will be created for each user to rate different movies. User-ratings of input movie titles will be selected and similarity will be calculated with user-ratings of other movies using pearson correlation. These will result in a list of movies which have similar user-ratings as that of the input movie. Further, this list of movies will be sorted by Pearson correlation score in descending order and only the top 0.01% of users-rated movies will be selected. Finally, top-N movies will be provided as recommendations.
+Recommends Top-N Similar Movies (by Pearson Correlation) to the user when the user inputs the number of movies for recommendations, from_year, to_year and movie title with release year. The Movies Recommender System will take year_range into account and filter the movie list. A user-ratings matrix will be created for each user to rate different movies. User-ratings of input movie titles will be selected and similarity will be calculated with user-ratings of other movies using pearson correlation. This will result in a list of movies which have similar user-ratings as that of the input movie. Further, this list of movies will be sorted by Pearson correlation score in descending order and only the top 0.01% of users-rated movies will be selected. Finally, top-N movies will be provided as recommendations.
 
 ## Libraries Used
 
@@ -52,12 +52,12 @@ Recommends Top-N Similar Movies (by Pearson Correlation) to the user when the us
 
 ## Deployment
 
-1. Download the zipped code file from repository main page or you can click here: [DOWNLOAD CODE](https://github.com/mounikpatel/movies-recommendation-system/archive/refs/heads/main.zip)
-2. Unzip the .ipynp notebook of movie recommender system which you want to deploy.
-3. Open [Google Colab] -> Go to 'File' tab -> Select 'Upload notebook'. 
-   - *Note: You must have Google account signed-in before using Colab.*
+1. Download the zipped code file from the repository main page or you can click here: [DOWNLOAD CODE](https://github.com/mounikpatel/movies-recommendation-system/archive/refs/heads/main.zip)
+2. Unzip the .ipynp notebook of the movie recommender system which you want to deploy.
+3. Open [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) -> Go to 'File' tab -> Select 'Upload notebook'. 
+   - *Note: You must have a Google account signed-in before using Colab.*
 4. Once the .ipynb notebook is uploaded -> Go to 'Runtime' tab -> Select 'Run all'.
-5. You can try to give your own inputs in last cell 'Function Call' to get movie recommendations.
+5. You can try to give your own inputs in the last cell 'Function Call' to get movie recommendations.
 
 ## Demo
 
