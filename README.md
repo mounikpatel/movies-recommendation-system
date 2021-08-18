@@ -1,4 +1,4 @@
-# Movies Recommendation System [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+# Movies Recommendation System [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/mounikpatel/movies-recommendation-system)
 
 Recommend movies based on inputs provided by the user, such as:
 
@@ -24,9 +24,9 @@ Two different datasets from [MovieLens](https://grouplens.org/datasets/movielens
 
 ## Code Notebooks
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ### 1. [Top-N Popular Movies Recommender System](https://github.com/mounikpatel/movies-recommendation-system/blob/main/Top_N_Popular_Movies_Recommender_System.ipynb)
 
