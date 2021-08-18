@@ -9,7 +9,7 @@ Recommend movies based on inputs provided by the user, such as:
 
 ## Background
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue&color=E51904&vCenter=true&lines=Inspired+by+NETFLIX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue&color=E51904&vCenter=true&lines=Inspired+by+NETFLIX)](https://www.netflix.com/)
 
 ## Introduction
 
